@@ -2,4 +2,4 @@
 
 ~~You can call me sb zhaoo!~~
 
-![zhaoo](https://github-readme-stats.vercel.app/api?icon_color=666&hide_border=true&title_color=333&username=zhaoo&show_icons=true&tdsourcetag=s_pctim_aiomsg)
+<img align="right" width="480px" src="https://github-readme-stats-one-bice.vercel.app/api?username=zhaoo&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER">
